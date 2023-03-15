@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaskMate/static/css/main.dcb800cd.css",
+    "main.js": "/TaskMate/static/js/main.def537e3.js",
+    "static/js/787.9863fc83.chunk.js": "/TaskMate/static/js/787.9863fc83.chunk.js",
+    "index.html": "/TaskMate/index.html",
+    "main.dcb800cd.css.map": "/TaskMate/static/css/main.dcb800cd.css.map",
+    "main.def537e3.js.map": "/TaskMate/static/js/main.def537e3.js.map",
+    "787.9863fc83.chunk.js.map": "/TaskMate/static/js/787.9863fc83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcb800cd.css",
+    "static/js/main.def537e3.js"
+  ]
+}
